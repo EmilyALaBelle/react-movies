@@ -1,4 +1,4 @@
-export default [
+const movies =[
   {
     "id": 1,
     "title": "Get Out",
@@ -468,3 +468,5 @@ export default [
     "imdbId": "tt3289956"
   }
 ]
+
+export default movies;
