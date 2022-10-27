@@ -45,7 +45,6 @@ header {
   color: whitesmoke;
 }
 
-Footer{
-color: whitesmoke;
-
+Footer a {
+color: rgb(11, 0, 0)
 }
