@@ -1,6 +1,12 @@
 # React Movies
 ## Available Scripts
 
+Happy Halloween 🎃
+
+Seen a demo at [https://react-movies-el.web.app](https://react-movies-el.web.app)
+
+## To run locally!
+
 In the project directory, you can run:
 
 ### `npm start`
