@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Poppins:ital,wght@0,200;0,500;0,800;1,800&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Changa+One&family=Creepster&display=swap);
 
 .App {
-  font-family: 'Changa One', sans-serif;
+  font-family: 'Creepster', sans-serif;
   text-align: center;
   background-color: rgb(184, 22, 22);
   min-height: 100vh;
