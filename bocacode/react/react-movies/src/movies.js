@@ -1,4 +1,4 @@
-const movies =[
+const movies = [
   {
     "id": 1,
     "title": "Get Out",
