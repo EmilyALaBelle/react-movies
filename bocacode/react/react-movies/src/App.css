@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: whitesmoke;
 }
 
 header {
@@ -27,4 +27,17 @@ header {
   flex-wrap: wrap;
   padding: 16px;
   margin-top: 8px;
+}
+
+.movie-card {
+  width: 45%;
+  background-color: rgb(55, 11, 11);
+}
+
+.movie-poster{
+  width: 100%;
+}
+
+.movie-title{
+color: whitesmoke;
 }
